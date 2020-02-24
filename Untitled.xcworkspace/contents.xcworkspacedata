@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:NavigationBar/NavigationBar.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:OrderOfEvents/OrderOfEvents.xcodeproj">
    </FileRef>
    <FileRef
